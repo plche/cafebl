@@ -1,14 +1,13 @@
 import java.util.ArrayList;
 
 public class TestCafe {
-    public static void main(String[] args) {
-        
-    /* 
-      Necesitarás agregar 1 línea a este archivo para crear una instancia
-      de la clase CafeUtil.
-      Sugerencia: deberás corresponder con el nombre de la variable que se usa a continuación.
-    */
-    CafeUtil appTest = new CafeUtil();
+    public static void main(String[] args) {        
+        /* 
+        Necesitarás agregar 1 línea a este archivo para crear una instancia
+          de la clase CafeUtil.
+          Sugerencia: deberás corresponder con el nombre de la variable que se usa a continuación.
+        */
+        CafeUtil appTest = new CafeUtil();
     	
         /* ============ Casos de prueba de la App ============= */
     
